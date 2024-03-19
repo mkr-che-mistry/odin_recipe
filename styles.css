@@ -1,0 +1,48 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.landing-page{
+    background-color: blanchedalmond;
+}
+
+
+.main{
+    margin: 0;
+    text-transform: capitalize;
+    color: darkslategrey;
+}
+
+.foods{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: auto;
+    width: 800px;
+    line-height: 0;
+}
+
+.desc-container{
+    color: cadetblue;
+    font-size: 24px;
+}
+
+.link a{
+    text-decoration: none;
+}
+
+.link a:visited{
+    color: cadetblue;
+}
+
+.recipe-body{
+    background-color: bisque;
+    color: cornflowerblue;
+    
+}
+
+.topic{
+    color: darkslateblue;
+}
+
+  
